@@ -55,6 +55,11 @@ public class ContaBanco {
         if(status==false){
             this.numConta = numConta;
             this.tipo = tipo;
+            if(tipo=="poupanca"){
+                this.saldo = 150;
+            } else if(tipo=="corrente"){
+                this.saldo = 50;
+            }
             status = true;
             System.out.println("\nVOCÊ ABRIU UMA CONTA");
             estatus();
