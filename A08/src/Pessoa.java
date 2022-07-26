@@ -1,4 +1,4 @@
-public class Pessoa {
+public abstract class Pessoa {
     private String nome;
     private int idade;
     private String genero;
@@ -35,5 +35,10 @@ public class Pessoa {
 
     public void fazerAniv(){
         this.setIdade(this.getIdade() + 1);
+    }
+
+    @Override
+    public String toString(){
+        return "Pessoa" + "nome: " + this.getNome() + ", idade: " + this.getIdade() + ", genero: " + this.getGenero();
     }
 }

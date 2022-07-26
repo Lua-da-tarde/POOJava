@@ -26,4 +26,8 @@ public class Aluno extends Pessoa{
         this.setMatricula(0);
         this.setCurso("cancelado");
     }
+
+    public void pagarMensalidade(){
+        System.out.println("Pagando 1.000 conto");
+    }
 }
