@@ -6,8 +6,9 @@ The steps are organized through branches as listed below:
 **3.** Métodos Getter, Stter e Construtor;  
 **4.** Encapsulamento;  
 **5.** Objetos Compostos e Agregação entre Objetos;  
-**6.** Heranca;  
-**7.** Polimorfismo;  
-**8.**  Polimorfismo Sobrecarga;  
-**9.** Array List;  
-**10.** Tratamento de exceções;  
+**6.** Heranca 1;  
+**7.** Heranca 2;  
+**8.** Polimorfismo;  
+**9.**  Polimorfismo Sobrecarga;  
+**10.** Array List;  
+**11.** Tratamento de exceções;  
