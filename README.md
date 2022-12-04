@@ -1,6 +1,6 @@
 # POOJava
-## GUIDE
-The steps are organized through branches as listed below:  
+## GUIA
+Cada passo está em uma branch, seguem listados abaixo: 
 **1.** Criando Classes e Objetos;  
 **2.** Configurando Visibilidade de Atributos e Métodos;  
 **3.** Métodos Getter, Stter e Construtor;  
