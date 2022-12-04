@@ -11,5 +11,3 @@ The steps are organized through branches as listed below:
 **8.** Heranca 2;  
 **9.** Polimorfismo;  
 **10.**  Polimorfismo Sobrecarga;  
-**11.** Array List;  
-**12.** Tratamento de exceções;  
